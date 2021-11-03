@@ -1,3 +1,3 @@
 # first-repo
 
-first push so,ething so,ething
+first push so,ething so,ething from git
